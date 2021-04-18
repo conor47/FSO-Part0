@@ -1,0 +1,8 @@
+title New Note Singe page app
+
+Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over Browser:
+The HTTP POST request posts the new note
+as JSON data
+end note
